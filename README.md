@@ -473,7 +473,7 @@
       ```javascript
       var object = {
            name: "Sudheer",
-           age: 34
+           age: 29
       };
 
       Object literal property values can be of any data type, including array, function, and nested object.
